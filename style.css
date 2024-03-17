@@ -1,0 +1,35 @@
+.bold1 {
+    font-weight: normal;
+  }
+  
+  .bold1 .highlight {
+    font-weight: bold;
+  }
+
+  .bold2 {
+    font-weight: normal;
+  }
+  
+  .bold2 .highlight {
+    font-weight: bold;
+  }
+
+  .bold3 {
+    font-weight: normal;
+  }
+  
+  .bold3 .highlight {
+    font-weight: bold;
+  }
+
+  .bold4 {
+    font-weight: normal;
+  }
+  
+  .bold4 .highlight {
+    font-weight: bold;
+  }
+
+  #name {
+    background-color: azure;
+  }
